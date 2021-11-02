@@ -1,4 +1,4 @@
-### Olá! Eu sou o Victor 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Victor</h1>
 
  <div>
   <a href="https://github.com/VictorCrisostomo">

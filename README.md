@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Victor</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" max-width="10px">, I'm Victor</h1>
 
   <a href="https://github.com/VictorCrisostomo"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictorCrisostomo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/VictorCrisostomo"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCrisostomo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>

@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40em">, I'm Victor</h1>
+<h1 align="center" title="Hi, i'm Victor">
+    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40em">, I'm Victor!
+    <img align="right" alt="avatar-pic" height="100" src="./assets/avatar.gif">
+</h1>
 
 <div align="center">
   <a href="https://github.com/VictorCrisostomo"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCrisostomo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/></a>
@@ -14,7 +17,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="avatar-pic" height="150" style="border-radius:50px;" src="./assets/avatar.gif">
+
 </div>
 
 ##

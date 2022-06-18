@@ -15,6 +15,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+<div style="display: inline_block"><br>
+
+  <img align="right" alt="avatar-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/533043608333320192/533043608333320194/987544762561224785">
+</div>
+
 <!--
 **VictorCrisostomo/VictorCrisostomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
